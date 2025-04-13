@@ -1,0 +1,11 @@
+# Jupyter Notebook specific files
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.ipynb_checkpoints*
+profile_default/
+ipython_config.py
+
+# IPython
+__pycache__/
+*.py[cod]
+*$py.class
