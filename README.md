@@ -1,6 +1,8 @@
 # Py3DImage
 Scientific 3D Image Analysis in Python (Tutorials repo)
 
+### Youtube Playlist:
+https://www.youtube.com/playlist?list=PLaYes2m4FtR1lrAJ8eALDb1TwHoXzw91s
 
 ## Run in Google colab
 ### Part 1 
